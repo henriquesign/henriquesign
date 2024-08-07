@@ -1,6 +1,6 @@
 Hi, I’m @henriquesign
-- 👀 I’m interested in python, infrastructure, devops
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in infrastructure, devops
+- 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on zabbix
 - 📫 How to reach me https://www.linkedin.com/in/henriquesign/
 
